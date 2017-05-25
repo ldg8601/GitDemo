@@ -1,2 +1,3 @@
 init empty git resposity
 git is free soft
+git has a mutable index called satage.
