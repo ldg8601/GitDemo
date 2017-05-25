@@ -1,1 +1,2 @@
 init empty git resposity
+git is free soft
